@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kunalkmrgos@gmail.com**
 
-<h3 align="left">:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
