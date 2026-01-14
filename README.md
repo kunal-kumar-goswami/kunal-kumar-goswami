@@ -1,4 +1,4 @@
-![logo](https://github.com/kunal-kumar-goswami/kunal-kumar-goswami/blob/main/1.png)
+![logo](https://github.com/kunal-kumar-goswami/kunal-kumar-goswami/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Kunal Goswami</h1>
 <h3 align="center">A passionate in Machine Learning & Artificial Intelligence</h3>
 
