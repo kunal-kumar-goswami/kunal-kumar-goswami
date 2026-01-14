@@ -1,4 +1,4 @@
-![logo](https://github.com/kunal-kumar-goswami/kunal-kumar-goswami/blob/main/2.png)
+![logo](https://github.com/kunal-kumar-goswami/kunal-kumar-goswami/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kunal Goswami</h1>
 <h3 align="center">A passionate in Machine Learning & Artificial Intelligence</h3>
 
