@@ -1,4 +1,4 @@
-<img align="right" width="35%" src="./assets/attractive_coding.gif">
+
 
 # Hi 👋, I'm Kunal Goswami
 
