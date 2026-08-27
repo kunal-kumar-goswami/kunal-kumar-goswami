@@ -36,7 +36,6 @@
     <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-kumar-goswami&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 <div>
-```html
 <h2 align="center">🚀 Technologies I Work With</h2>
 
 <div align="center">
@@ -203,6 +202,16 @@
          alt="Git"/>
 
   </kbd>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="45"/>
+</div>
+
+
 
 </div>
 
