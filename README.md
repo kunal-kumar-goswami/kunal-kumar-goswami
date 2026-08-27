@@ -36,6 +36,8 @@
     <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-kumar-goswami&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 <div>
+<hr>
+
 <h2 align="center">🚀 Technologies I Work With</h2>
 
 <p align="center">
@@ -48,83 +50,89 @@
 <!-- PROGRAMMING LANGUAGES -->
 <!-- ========================= -->
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+### 💻 Programming Languages
 
-  ### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+</p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-  </p>
+</td>
 
-  </div>
+<td align="center" width="50%">
 
-  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+### 🌐 Front-end
 
-  ### 🌐 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-  </p>
-
-  </div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 <!-- ========================= -->
-<!-- BACKEND -->
+<!-- BACKEND + DATABASE -->
 <!-- ========================= -->
 
-<div align="center">
+<table align="center">
+<tr>
 
-  <div style="display: inline-block; width: 28%; min-width: 250px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+<td align="center" width="33%">
 
-  ### ⚙️ Back-end
+### ⚙️ Back-end
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=flask" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
-  </div>
+</td>
 
-  <div style="display: inline-block; width: 28%; min-width: 250px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+<td align="center" width="33%">
 
-  ### 🗄️ Database & ORM
+### 🗄️ Database & ORM
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
 
-  </div>
+</td>
 
-  <div style="display: inline-block; width: 28%; min-width: 250px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+<td align="center" width="34%">
 
-  ### 📊 Data Science & ML
+### 📊 Data Science & ML
 
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
 
-  </div>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -132,65 +140,73 @@
 <!-- AUTOMATION + TOOLS -->
 <!-- ========================= -->
 
-<div align="center">
+<table align="center">
+<tr>
 
-  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+<td align="center" width="50%">
 
-  ### 🤖 Automation & Web Scraping
+### 🤖 Automation & Web Scraping
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=selenium" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
 
-  </div>
+</td>
 
-  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+<td align="center" width="50%">
 
-  ### 🛠️ Development Tools
+### 🛠️ Development Tools
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=git" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
 
-  </div>
+</td>
 
-</div>
+</tr>
+</table>
+
+<br>
+
+<!-- ========================= -->
+<!-- COMPLETE TECHNOLOGY STACK -->
+<!-- ========================= -->
 
 <h3 align="center">📚 Current Technology Stack</h3>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-  <br><br>
+<br>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-  <br><br>
+<br>
 
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
 
-  <br><br>
+<br>
 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-  <br><br>
+<br>
 
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </p>
 </div>
