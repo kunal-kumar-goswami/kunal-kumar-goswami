@@ -36,10 +36,6 @@
     <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-kumar-goswami&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 <div>
-<!-- ========================= -->
-<!-- TECHNOLOGIES SECTION -->
-<!-- ========================= -->
-
 <h2 align="center">🚀 Technologies I Work With</h2>
 
 <p align="center">
@@ -54,39 +50,23 @@
 
 <div align="center">
 
-  <div style="
-    display: inline-block;
-    width: 42%;
-    margin: 10px;
-    padding: 25px;
-    background-color: #161B22;
-    border: 2px solid #4B8BBE;
-    border-radius: 15px;
-  ">
+  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>💻 Programming Languages</h3>
+  ### 💻 Programming Languages
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js">
-    </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+  </p>
 
   </div>
 
-  <div style="
-    display: inline-block;
-    width: 42%;
-    margin: 10px;
-    padding: 25px;
-    background-color: #161B22;
-    border: 2px solid #F7DF1E;
-    border-radius: 15px;
-  ">
+  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>🌐 Front-end</h3>
+  ### 🌐 Front-end
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
-    </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  </p>
 
   </div>
 
@@ -95,89 +75,52 @@
 <br>
 
 <!-- ========================= -->
-<!-- BACKEND / DATABASE / ML -->
+<!-- BACKEND -->
 <!-- ========================= -->
 
 <div align="center">
 
-  <div style="
-    display: inline-block;
-    width: 28%;
-    min-width: 250px;
-    margin: 10px;
-    padding: 25px;
-    background-color: #111827;
-    border: 2px solid #00ADD8;
-    border-radius: 15px;
-    vertical-align: top;
-  ">
+  <div style="display: inline-block; width: 28%; min-width: 250px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>⚙️ Back-end</h3>
+  ### ⚙️ Back-end
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=flask">
-    </p>
-
-    <p>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </p>
 
   </div>
 
-  <div style="
-    display: inline-block;
-    width: 28%;
-    min-width: 250px;
-    margin: 10px;
-    padding: 25px;
-    background-color: #111827;
-    border: 2px solid #D71F00;
-    border-radius: 15px;
-    vertical-align: top;
-  ">
+  <div style="display: inline-block; width: 28%; min-width: 250px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>🗄️ Database & ORM</h3>
+  ### 🗄️ Database & ORM
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=sqlite">
-    </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </p>
 
-    <p>
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-    </p>
+  <p>
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  </p>
 
   </div>
 
-  <div style="
-    display: inline-block;
-    width: 28%;
-    min-width: 250px;
-    margin: 10px;
-    padding: 25px;
-    background-color: #111827;
-    border: 2px solid #F7931E;
-    border-radius: 15px;
-    vertical-align: top;
-  ">
+  <div style="display: inline-block; width: 28%; min-width: 250px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>📊 Data Science & ML</h3>
+  ### 📊 Data Science & ML
 
-    <p>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    </p>
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  </p>
 
-    <p>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-    </p>
+  <p>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  </p>
 
-    <p>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-    </p>
-
-    <p>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    </p>
+  <p>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </p>
 
   </div>
 
@@ -191,49 +134,27 @@
 
 <div align="center">
 
-  <div style="
-    display: inline-block;
-    width: 42%;
-    margin: 10px;
-    padding: 25px;
-    background-color: #161B22;
-    border: 2px solid #43B02A;
-    border-radius: 15px;
-  ">
+  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>🤖 Automation & Web Scraping</h3>
+  ### 🤖 Automation & Web Scraping
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=selenium">
-    </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=selenium" />
+  </p>
 
   </div>
 
-  <div style="
-    display: inline-block;
-    width: 42%;
-    margin: 10px;
-    padding: 25px;
-    background-color: #161B22;
-    border: 2px solid #F05032;
-    border-radius: 15px;
-  ">
+  <div style="display: inline-block; width: 42%; min-width: 300px; margin: 10px; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-    <h3>🛠️ Development Tools</h3>
+  ### 🛠️ Development Tools
 
-    <p>
-      <img src="https://skillicons.dev/icons?i=git">
-    </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git" />
+  </p>
 
   </div>
 
 </div>
-
-<br>
-
-<!-- ========================= -->
-<!-- COMPLETE TECHNOLOGY STACK -->
-<!-- ========================= -->
 
 <h3 align="center">📚 Current Technology Stack</h3>
 
