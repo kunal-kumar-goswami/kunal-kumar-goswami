@@ -36,181 +36,183 @@
     <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-kumar-goswami&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 <div>
-<hr>
-
+```html
 <h2 align="center">🚀 Technologies I Work With</h2>
 
-<p align="center">
-  Technologies, languages, libraries, frameworks, and tools I use while learning and building projects.
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"/>
+  <b><i>Languages, Libraries, Frameworks & Tools</i></b>
+</div>
 
 <br>
 
-<!-- ========================= -->
-<!-- PROGRAMMING LANGUAGES -->
-<!-- ========================= -->
+<div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+  <!-- ================= PROGRAMMING LANGUAGES ================= -->
 
-### 💻 Programming Languages
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="Python"/>
 
-</td>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         alt="C"/>
 
-<td align="center" width="50%">
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         alt="C++"/>
 
-### 🌐 Front-end
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         alt="Java"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         alt="JavaScript"/>
+  </kbd>
 
-</td>
-</tr>
-</table>
+  &nbsp;&nbsp;
 
-<br>
+  <!-- ================= FRONT-END ================= -->
 
-<!-- ========================= -->
-<!-- BACKEND + DATABASE -->
-<!-- ========================= -->
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
 
-<table align="center">
-<tr>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+         alt="HTML5"/>
 
-<td align="center" width="33%">
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+         alt="CSS3"/>
 
-### ⚙️ Back-end
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+         alt="Bootstrap"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
+  </kbd>
 
-</td>
+  &nbsp;&nbsp;
 
-<td align="center" width="33%">
+  <!-- ================= FRAMEWORKS ================= -->
 
-### 🗄️ Database & ORM
+  <kbd>
+    <kbd>Libraries / Frameworks</kbd>
+    <br>
+    <br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+         alt="Flask"/>
 
-<p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+         alt="Bootstrap"/>
 
-</td>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"
+         alt="SQLAlchemy"/>
 
-<td align="center" width="34%">
+  </kbd>
 
-### 📊 Data Science & ML
+  <br>
+  <br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+  <!-- ================= DATA SCIENCE / ML ================= -->
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
+  <kbd>
+    <kbd>Data Science / ML</kbd>
+    <br>
+    <br>
 
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+         alt="Pandas"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+         alt="NumPy"/>
 
-</td>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+         alt="Matplotlib"/>
 
-</tr>
-</table>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"
+         alt="Plotly"/>
 
-<br>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+         alt="Scikit-learn"/>
 
-<!-- ========================= -->
-<!-- AUTOMATION + TOOLS -->
-<!-- ========================= -->
+  </kbd>
 
-<table align="center">
-<tr>
+  &nbsp;&nbsp;
 
-<td align="center" width="50%">
+  <!-- ================= DATABASE ================= -->
 
-### 🤖 Automation & Web Scraping
+  <kbd>
+    <kbd>Database / ORM</kbd>
+    <br>
+    <br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-</p>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
+         alt="SQLite"/>
 
-</td>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"
+         alt="SQLAlchemy"/>
 
-<td align="center" width="50%">
+  </kbd>
 
-### 🛠️ Development Tools
+  &nbsp;&nbsp;
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
+  <!-- ================= AUTOMATION ================= -->
 
-</td>
+  <kbd>
+    <kbd>Automation / Scraping</kbd>
+    <br>
+    <br>
 
-</tr>
-</table>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+         alt="Selenium"/>
 
-<br>
+  </kbd>
 
-<!-- ========================= -->
-<!-- COMPLETE TECHNOLOGY STACK -->
-<!-- ========================= -->
+  <br>
+  <br>
 
-<h3 align="center">📚 Current Technology Stack</h3>
+  <!-- ================= TOOLS ================= -->
 
-<p align="center">
+  <kbd>
+    <kbd>Development Tools</kbd>
+    <br>
+    <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img width="38px"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+         alt="Git"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-</p>
+  </kbd>
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="45"/>
+</div>
+```
+
 
 </div>
 
