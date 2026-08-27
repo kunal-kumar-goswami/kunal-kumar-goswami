@@ -36,134 +36,179 @@
     <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-kumar-goswami&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 <div>
-<h2 align="center">⚙️ Technical Architecture</h2>
+<hr>
 
-<!-- ==================== AI / ML & DATA SCIENCE ==================== -->
+<h2 align="center">🚀 Technologies I Work With</h2>
 
-<h3>📊 AI / ML & Data Science</h3>
+<p align="center">
+  Technologies, languages, libraries, frameworks, and tools I use while learning and building projects.
+</p>
 
-<div align="left">
+<br>
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<!-- ========================= -->
+<!-- PROGRAMMING LANGUAGES -->
+<!-- ========================= -->
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
+### 💻 Programming Languages
 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+</p>
 
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
-  </a>
+</td>
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
+<td align="center" width="50%">
 
-</div>
+### 🌐 Front-end
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-<!-- ==================== FULL STACK DEVELOPMENT ==================== -->
+</td>
+</tr>
+</table>
 
-<h3>🌐 Full-Stack Development</h3>
+<br>
 
-<div align="left">
+<!-- ========================= -->
+<!-- BACKEND + DATABASE -->
+<!-- ========================= -->
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  </a>
+<table align="center">
+<tr>
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+<td align="center" width="33%">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+### ⚙️ Back-end
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
-</div>
+</td>
 
+<td align="center" width="33%">
 
-<!-- ==================== DATABASES ==================== -->
+### 🗄️ Database & ORM
 
-<h3>🗄️ Databases & ORM</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
 
-<div align="left">
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  </a>
+</td>
 
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
-  </a>
+<td align="center" width="34%">
 
-</div>
+### 📊 Data Science & ML
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-<!-- ==================== AUTOMATION ==================== -->
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
 
-<h3>⚡ Automation & Web Scraping</h3>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
 
-<div align="left">
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
 
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  </a>
+</td>
 
-</div>
+</tr>
+</table>
 
+<br>
 
-<!-- ==================== PROGRAMMING LANGUAGES ==================== -->
+<!-- ========================= -->
+<!-- AUTOMATION + TOOLS -->
+<!-- ========================= -->
 
-<h3>💻 Programming Languages</h3>
+<table align="center">
+<tr>
 
-<div align="left">
+<td align="center" width="50%">
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+### 🤖 Automation & Web Scraping
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
+</td>
 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
+<td align="center" width="50%">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+### 🛠️ Development Tools
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
 
+</td>
 
-<!-- ==================== DEVELOPMENT TOOLS ==================== -->
+</tr>
+</table>
 
-<h3>🛠️ Development Tools</h3>
+<br>
 
-<div align="left">
+<!-- ========================= -->
+<!-- COMPLETE TECHNOLOGY STACK -->
+<!-- ========================= -->
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
+<h3 align="center">📚 Current Technology Stack</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</p>
 
 </div>
 
