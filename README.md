@@ -1,4 +1,6 @@
-# Hi 👋, I'm Kunal Goswami
+<div align="center">
+<img src="./assets/kunal_goswami_header.gif" width="100%" />
+</div>
 
 <h3>Machine Learning & AI Enthusiast | First-Year B.Tech Student</h3>
 
@@ -15,25 +17,9 @@
 - 📫 Reach me via **[Email](mailto:kunalkmrgos@gmail.com)**.
 
 <hr>
+<h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api?username=kunal-kumar-goswami&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api/top-langs/?username=kunal-kumar-goswami&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" /> </div> <div align="center"> <img width="70%" src="https://streak-stats.demolab.com/?user=kunal-kumar-goswami&hide_border=true&background=0d1117&stroke=58A6FF&ring=3FB950&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681&currStreakNum=3FB950&sideNums=C9D1D9" /> </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div width="100%" align="center">
-  <a href="https://github.com/kunal-kumar-goswami">
-    <img width="400px" align="center" src="https://github-readme-stats.shion.dev/api?username=kunal-kumar-goswami&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/kunal-kumar-goswami">
-    <img width="400px" align="center" src="https://streak-stats.demolab.com/?user=kunal-kumar-goswami&theme=radical&hide_border=true" alt="Streak Stats" />
-  </a>
-</div>
-
-<h2 align="center">🔥 Language & Coding Activity</h2>
-
-<div width="100%" align="center">
-  <a href="https://github.com/kunal-kumar-goswami">
-    <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal-kumar-goswami&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  </a>
-<div>
+<h2 align="center">🔥 Language & Coding Activity</h2> <div align="center"> <a href="https://github.com/kunal-kumar-goswami"> <img align="center" src="https://github-readme-stats-swart-eta-25.vercel.app/api/top-langs/?username=kunal-kumar-goswami&layout=compact&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" /> </a> </div>
 <hr>
 
 <h2 align="center">🚀 Technologies I Work With</h2>
